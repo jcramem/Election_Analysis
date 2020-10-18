@@ -31,4 +31,4 @@ The following results were attained using the new election audit approach:
 
 ## Going Forward 
 
-A review of this project suggests that this election audit approach works well and, with modifications, can be used for any election going forward. For example, the approach can accommodate any level of election, whether statewide, congressional district, county, local, or other. In addition, although this election had only three candidates, the approach can account for any number of candidates.  
+A review of this project suggests that this election audit approach works well and, with modifications, can be used for any election going forward. For example, the approach can accommodate any level of election, whether statewide, congressional district, county, local, or other. In addition, although this election had only three candidates this new approach can account for any number of candidates.  
