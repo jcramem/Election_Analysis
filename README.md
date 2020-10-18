@@ -2,12 +2,12 @@
 
 ## Project Overview
 
-Asked to complete an audit of a recent electon, specifically to: 
+The goal of this project is to determine the feasibility of automating the audit process for elections using Python. If successful, this process can be applied to other elections going forward. In particular, the audit will show the following: 
 1. The total number of votes cast. 
 2. A complete list of candidates who received votes.
-3. The total number of votes for each candidate. 
-4. The percentage of votes for each candidate. 
-5. The winner of the election based on the vote.
+3. The number and percentage of votes for each candidate, total and by county. 
+4. The county with the largest turnout.
+5. The winner of the election.
 
 ## Resources
 
@@ -16,8 +16,7 @@ Asked to complete an audit of a recent electon, specifically to:
 
 ## Summary 
 
-The results of the analysis were as follows: 
-
+The following results were attained using the new election audit approach:
 * There were 369,711 votes cast in the election. 
 * The candidates were as follows:
   * Charles Casper Stockham
@@ -28,3 +27,7 @@ The results of the analysis were as follows:
   * Diana DeGette received 272,892 votes, or 73.8% of the votes
   * Raymon Anthony Doane received 11,606 votes, or 3.1% of the votes
 * The winner of the election was Diana DeGette, who received 272,892 votes, or 73.8% of the votes.
+
+## Going Forward 
+
+A review of this project suggests that this election audit approach works well and, with modifications, can be used for any election going forward. For example, the approach can accommodate any level of election, whether statewide, congressional district, county, local, or other. In addition, although this election had only three candidates, the approach can account for any number of candidates.  
