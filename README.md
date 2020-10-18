@@ -2,12 +2,13 @@
 
 ## Project Overview
 
-The goal of this project is to determine the feasibility of automating the audit process for elections using Python. If successful, this process can be applied to other elections going forward. In particular, the audit will show the following: 
+The goal of this project is to determine the feasibility of automating the election audit process using Python. Ideally, if successful this process can be applied to other elections going forward. 
+
+In particular, the audit will show the following: 
 1. The total number of votes cast. 
-2. A complete list of candidates who received votes.
-3. The number and percentage of votes for each candidate, total and by county. 
-4. The county with the largest turnout.
-5. The winner of the election.
+2. The number and percentage of votes for each candidate, total and by county. 
+3. The county with the largest turnout.
+4. The winner of the election, including their number and percentage of votes. 
 
 ## Resources
 
